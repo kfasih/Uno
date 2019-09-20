@@ -13,7 +13,7 @@ package ca.sheridancollege.project;
  * code should remember to add themselves as a modifier.
  *
  * @author dancye, 2018
- * @modified Patrick Ryan
+ * @modified Patrick Ryan, Karam Fasih
  */
 public final class Card {
    
